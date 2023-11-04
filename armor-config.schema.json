@@ -5,7 +5,7 @@
   "properties": {
     "$schema": {
       "description": "The JSON schema for this file",
-      "default": "",
+      "default": "https://raw.githubusercontent.com/ddev17/armor-config.schema/main/armor-config.schema.json",
       "type": "string",
       "format": "uri"
     },
